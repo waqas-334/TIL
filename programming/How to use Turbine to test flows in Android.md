@@ -100,3 +100,7 @@ class ProfileViewModelTest{
 > **FINAL NOTE:** Will also explain in future all the whys in the code.
 
 Cheers
+
+PS: The follow repos could be helpful:
+- https://github.com/philipplackner/TestingCourse/tree/part7.4/testing_flows_initial
+- https://github.com/philipplackner/TestingCourse/tree/part7.4/testing_flows_final
