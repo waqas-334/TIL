@@ -9,3 +9,13 @@ As the callbacks are async so the class can take some time to respond, and I nee
 
 ### Code
 ```
+class UserIdGenerator private constructor(val builder: UserIdGenerator.Builder){
+
+    fun generate(){
+
+    }
+}
+```
+
+it's getting too long, will complete later. 
+`7th May 2024`
